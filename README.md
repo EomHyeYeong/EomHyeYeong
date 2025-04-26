@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=EomHyeYeong&utm_content=line">
+  <img
+    src="https://render.gitanimals.org/lines/EomHyeYeong?pet-id=703831103800497193"
+    width="600"
+    height="200"
+  />
+</a>
